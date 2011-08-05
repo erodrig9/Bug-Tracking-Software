@@ -1,0 +1,10 @@
+C:\Users\Manny R\Classes\Database\Project 4\Database Project\Database Project\bin\Database Project.dll
+C:\Users\Manny R\Classes\Database\Project 4\Database Project\Database Project\bin\Database Project.pdb
+C:\Users\Manny R\Classes\Database\Project 4\Database Project\Database Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Manny R\Classes\Database\Project 4\Database Project\Database Project\obj\Debug\Database Project.dll
+C:\Users\Manny R\Classes\Database\Project 4\Database Project\Database Project\obj\Debug\Database Project.pdb
+C:\Users\Manny Rodriguez\Completed Course Work\Database\Project 4\Database Project\Database Project\bin\Database Project.dll
+C:\Users\Manny Rodriguez\Completed Course Work\Database\Project 4\Database Project\Database Project\bin\Database Project.pdb
+C:\Users\Manny Rodriguez\Completed Course Work\Database\Project 4\Database Project\Database Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Manny Rodriguez\Completed Course Work\Database\Project 4\Database Project\Database Project\obj\Debug\Database Project.dll
+C:\Users\Manny Rodriguez\Completed Course Work\Database\Project 4\Database Project\Database Project\obj\Debug\Database Project.pdb
